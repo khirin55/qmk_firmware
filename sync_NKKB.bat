@@ -1,0 +1,1 @@
+d:/Noppadon/Dropbox/AutoHotKey/QMK/sync_NKKB.bat
